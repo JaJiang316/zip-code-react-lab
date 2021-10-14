@@ -1,0 +1,24 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.zip-code-enter {
+  font-weight: bold;
+  background-color: grey;
+  padding: 2px;
+  padding-top: 0px;
+  background-color: lightgrey;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-right: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.App {
+  text-align: center;
+}
